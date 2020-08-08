@@ -1,0 +1,101 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+#profil{
+    
+    background-color: #d4ddd5;
+   
+}
+.nom{
+    text-align: center;
+    padding-top: 10px;
+}
+h3{
+    text-align: center;
+    text-decoration: underline;
+    margin: 20px;
+    text-transform: uppercase;
+    font-family: 'ABeeZee', sans-serif 'Open Sans';
+}
+#présentation{
+    text-align: center;
+    color:#000;
+    text-align: justify;
+    font-size: 20px;
+    font-weight: bold;
+    height: 150px;
+    padding-top: 20px;
+}
+#photo{
+    height: 350px;
+    background-image: url(images/photo.png);
+    background-size: cover;
+   
+
+}
+#compétences{
+    background-color: #d4ddd5;
+}
+
+.logo{
+    margin-left: 45%;
+    margin-top: 20px;
+}
+.logo1{
+    margin-left: 40%;
+
+}
+ul li{
+    list-style-type: none;
+    font-weight: bold;
+}
+#intitulé{
+    text-transform: uppercase;
+    text-decoration: underline;
+    text-align: center;
+    font-size: 14px;
+    font-weight: bold;
+    
+}
+li{
+    font-size: 14px;
+    margin-left: 20px;
+}
+#certificat{
+    text-align: center;
+    margin-top: 100px;
+}
+#intérêts{
+    margin-top: 100px;
+    text-align: center;
+}
+#expérience{
+    margin-top: 100px;
+}
+#poste{
+    padding-top: 50px;
+    text-align: center;
+    font-weight: bold;
+    text-decoration: underline;
+}
+#titre{
+    margin-top: 100px;
+}
+
+#contact{
+    float: right;
+    font-weight: bold;
+}
+#ouben{
+    float: left;
+    font-weight: bold;
+}
+#intérêts img{
+    width: 100px;
+    height: 100px;
+    text-align: center;
+    margin-top: 30px;
+}
+
